@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ConceptoEstatico/ConceptoEstatico.iml" filepath="$PROJECT_DIR$/ConceptoEstatico/ConceptoEstatico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DiseñoClases/DiseñoClases.iml" filepath="$PROJECT_DIR$/DiseñoClases/DiseñoClases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploArreglos/EjemploArreglos.iml" filepath="$PROJECT_DIR$/EjemploArreglos/EjemploArreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploHerencia/EjemploHerencia.iml" filepath="$PROJECT_DIR$/EjemploHerencia/EjemploHerencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploMatrices/EjemploMatrices.iml" filepath="$PROJECT_DIR$/EjemploMatrices/EjemploMatrices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploPalabraFinal/EjemploPalabraFinal.iml" filepath="$PROJECT_DIR$/EjemploPalabraFinal/EjemploPalabraFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EjemploPaquetes/EjemploPaquetes.iml" filepath="$PROJECT_DIR$/EjemploPaquetes/EjemploPaquetes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Proyectos/Proyectos.iml" filepath="$PROJECT_DIR$/Proyectos/Proyectos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" filepath="$PROJECT_DIR$/SobrecargaConstructores/SobrecargaConstructores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" filepath="$PROJECT_DIR$/SobrecargaMetodos/SobrecargaMetodos.iml" />
+    </modules>
+  </component>
+</project>
